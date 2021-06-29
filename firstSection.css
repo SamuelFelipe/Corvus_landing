@@ -131,6 +131,7 @@ body{
     width: 70%;
     height: 400px;
     color: #fff;
+    text-align: center;
 }
 .over__content h2{
     font-family: 'Roboto-medium';
